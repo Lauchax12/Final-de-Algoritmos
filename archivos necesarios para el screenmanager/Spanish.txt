@@ -1,0 +1,7 @@
+gameover,PERDISTE
+restart,Right click to restart
+start,Left click to start
+play,PLAY
+exit,EXIT
+conttrol,CONTROL
+option,OPTION

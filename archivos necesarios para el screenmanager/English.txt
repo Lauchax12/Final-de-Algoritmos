@@ -1,0 +1,7 @@
+gameover,YOU LOSE
+restart,click derecho para reiniciar
+start,Haz click para empezar
+play,JUGAR
+exit,SALIR
+conttrol,CONTROLES
+option,OPCIONES
