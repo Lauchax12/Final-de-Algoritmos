@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 2ac4e0d72de3fb541991fc79832cafa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4288944050123276598
+    second: pajarospng_0
+  - first:
+      213: 2521819242365281168
+    second: pajarospng_1
+  - first:
+      213: -8220908614101075226
+    second: pajarospng_2
+  - first:
+      213: 4457005965966676358
+    second: pajarospng_3
+  - first:
+      213: -5233863102386446038
+    second: pajarospng_4
+  - first:
+      213: 995066294969334367
+    second: pajarospng_5
+  - first:
+      213: 4049223269303565748
+    second: pajarospng_6
+  - first:
+      213: 6620829988173559424
+    second: pajarospng_7
+  - first:
+      213: 3191009909466815901
+    second: pajarospng_8
+  - first:
+      213: 1715339337819739441
+    second: pajarospng_9
+  - first:
+      213: -6577516790047728101
+    second: pajarospng_10
+  - first:
+      213: 6146277750887679234
+    second: pajarospng_11
+  - first:
+      213: 1787333711120100180
+    second: pajarospng_12
+  - first:
+      213: 3039249682525549922
+    second: pajarospng_13
+  - first:
+      213: -165197215515276074
+    second: pajarospng_14
+  - first:
+      213: -1330291727186470987
+    second: pajarospng_15
+  - first:
+      213: 4174959316194056554
+    second: pajarospng_16
+  - first:
+      213: -8511044227393005646
+    second: pajarospng_17
+  - first:
+      213: -4390182349979269757
+    second: pajarospng_18
+  - first:
+      213: 2720390425590625423
+    second: pajarospng_19
+  - first:
+      213: 7374207686360313240
+    second: pajarospng_20
+  - first:
+      213: 8931549207047096641
+    second: pajarospng_21
+  - first:
+      213: -4956998767051103450
+    second: pajarospng_22
+  - first:
+      213: -1087362266333291159
+    second: pajarospng_23
+  - first:
+      213: 3290483347223920161
+    second: pajarospng_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajarospng_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 215
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318f19c3e3658b30800000000000000
+      internalID: 4288944050123276598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0936de06d3d4ff220800000000000000
+      internalID: 2521819242365281168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7e85fb2779ed80800000000000000
+      internalID: -8220908614101075226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 198
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819d33df477add30800000000000000
+      internalID: 4457005965966676358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 194
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216b331d359d57b0800000000000000
+      internalID: -5233863102386446038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 191
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7c9fe58f2fcd00800000000000000
+      internalID: 995066294969334367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 217
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb5171c1bb13830800000000000000
+      internalID: 4049223269303565748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 215
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b65babc9e1eb50800000000000000
+      internalID: 6620829988173559424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 215
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d55802b9eb84c20800000000000000
+      internalID: 3191009909466815901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135dffb1a0c1ec710800000000000000
+      internalID: 1715339337819739441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 124
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e99012457f7b4a0800000000000000
+      internalID: -6577516790047728101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 124
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050c80dc07fb4550800000000000000
+      internalID: 6146277750887679234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 99
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be4626a82edc810800000000000000
+      internalID: 1787333711120100180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 103
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26577aecb759d2a20800000000000000
+      internalID: 3039249682525549922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 97
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc045bf10a15bdf0800000000000000
+      internalID: -165197215515276074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 124
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d869e8bad98de0800000000000000
+      internalID: -1330291727186470987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 123
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a695471d06f60f930800000000000000
+      internalID: 4174959316194056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d99e5e52b2e980800000000000000
+      internalID: -8511044227393005646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cb42b960f213c0800000000000000
+      internalID: -4390182349979269757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f3b7cda4c0c520800000000000000
+      internalID: 2720390425590625423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d267d02d2765660800000000000000
+      internalID: 7374207686360313240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 10
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c6f3beac33fb70800000000000000
+      internalID: 8931549207047096641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 14
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623aed972e3353bb0800000000000000
+      internalID: -4956998767051103450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 32
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5a05a7c9e8e0f0800000000000000
+      internalID: -1087362266333291159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarospng_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 32
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebe9aab252aad20800000000000000
+      internalID: 3290483347223920161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
